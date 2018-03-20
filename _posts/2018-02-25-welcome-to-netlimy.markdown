@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to netlimy!"
+title:  "What is netlimy?"
 date:   2018-02-25 15:00:00 +0700
 categories: netlimy
 ---
